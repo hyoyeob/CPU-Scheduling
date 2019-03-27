@@ -43,4 +43,7 @@ $> cpu_scheduling <enter><br>
  Priority<br>
  Round Robin (RR)<br>
  Exit<br>
- *** Note: User the arrow keys to choose from the menu<br> 
+ *** Note: User the arrow keys to choose from the menu<br><br> 
+ 
+ 
+<h4>My code explain link: https://kim-hoya.tistory.com/11</h4>
