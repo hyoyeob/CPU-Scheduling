@@ -46,4 +46,5 @@ $> cpu_scheduling <enter><br>
  *** Note: User the arrow keys to choose from the menu<br><br> 
  
  
-<h4>My code explain link: https://kim-hoya.tistory.com/11</h4>
+<h4>CPU scheduling explain: https://kim-hoya.tistory.com/11</h4>
+<h4>My code explain: https://kim-hoya.tistory.com/22</h4>
